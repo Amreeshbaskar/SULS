@@ -51,7 +51,7 @@ header
 </div>
 <br><br><br><br><br><br>
 <header>
-<button class="button" type="button" onclick="window.location.href='homee.php'">Home</button>
+<button class="button" type="button" onclick="window.location.href='index.php'">Home</button>
 <button class="button" type="button" onclick="window.location.href='add.php'">Add Accounts</button>
 <button class="button" type="button" onclick="window.location.href='edit.php'">Edit Accounts</button>
 <button class="button" type="button" onclick="window.location.href='view.php'">View</button>
