@@ -229,7 +229,7 @@ echo "<tr bgcolor='palegreen'>";
 <tr><td></td><td><button class="btn btn-success" type="button" onclick="window.location.href='incomplete1.php'">Save</button>
 <button class="btn btn-danger" type="button" onclick="window.location.href='complete1.php'">Confirm</button></td></tr>
   	  </tbody>
-  </table>;
+  </table>
 </div>
 </form>
 
